@@ -1,0 +1,10 @@
+ATLAS DE VALOR
+
+Descomprime y abre index.html.
+
+Paleta institucional: #192026, #7BBE11, #E6EDD7.
+Modales: fondo #E6EDD7 en ambos modos.
+Selector claro/oscuro con preferencia local guardada.
+En la primera visita se usa la preferencia del dispositivo.
+
+HTML, CSS y JavaScript sin dependencias externas.
